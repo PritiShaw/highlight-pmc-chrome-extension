@@ -2,7 +2,7 @@
 
 *Features* : 
 - Highlights the extracted sentence in the article page in the library.
-- The extension will work when user visits [reach.nrnb-docker.ucsd.edu](reach.nrnb-docker.ucsd.edu).   
+- The extension will work when user visits pages under [www.ncbi.nlm.nih.gov/pmc/articles/](www.ncbi.nlm.nih.gov/pmc/articles/)
 
 ### Installation steps
 
