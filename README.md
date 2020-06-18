@@ -11,5 +11,5 @@
 3. Turn on `Developer mode`.
 4. Click on the `Load unpacked`.
 5. Select the `extension` folder.
-6. Visit [reach.nrnb-docker.ucsd.edu](reach.nrnb-docker.ucsd.edu).
+6. Visit [reach.nrnb-docker.ucsd.edu](https://reach.nrnb-docker.ucsd.edu./).
 7. Search and click on a sentence.
